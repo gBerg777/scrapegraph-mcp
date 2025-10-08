@@ -6,3 +6,4 @@ build/
 *.pyc
 *.log
 .env
+.cache/
